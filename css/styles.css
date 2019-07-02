@@ -1,13 +1,14 @@
 h1 {
-text-align: center;
+  color: #2db300;
 }
 
 h2 {
-  text-align: center;
+  color: #39e600;
 }
 
 p {
   font-size: 30px;
+  color: #392613;
 }
 
 img {
@@ -24,4 +25,9 @@ ul {
 ol {
   list-style-position: inside;
   font-size: 35px;
+}
+
+body {
+  background-color: #1f7a1f;
+  text-align: center;
 }
