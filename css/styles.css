@@ -1,9 +1,25 @@
 h1 {
+text-align: center;
+}
 
+h2 {
+  text-align: center;
+}
+
+p {
+  font-size: 30px;
 }
 
 img {
   width: 400px;
   display: block;
   margin: 5% auto;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+ol {
+  list-style-position: inside;
 }
