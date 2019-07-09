@@ -14,7 +14,7 @@ This is a Website that is created, using HTML and GitHub. It shows the Best Reso
 There are no known bugs in these files.
 
 ## Support and Contact details
-If you have concerns please contact me at stealth259@gmail.come
+If you have concerns please contact me at stealth259@gmail.com
 
 ## Technologies Used
 HTML
